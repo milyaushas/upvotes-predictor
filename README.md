@@ -1,1 +1,1 @@
-# upvotes-predictor
+# humor-classifier
